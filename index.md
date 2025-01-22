@@ -18,3 +18,6 @@ int a = 0
 ``` java
 int b = new int [5]
 ```
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
